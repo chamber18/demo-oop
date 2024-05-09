@@ -1,0 +1,8 @@
+Dashboard,./views/dashboard.php
+Home,./views/home.php
+Products,./views/products.php
+Home,./views/home.php
+Pages,./views/pages.php
+Shop,./views/shop.php
+Blog,./viewsblog.php
+Gallery,./views/gallery.php

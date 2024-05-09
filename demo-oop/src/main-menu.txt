@@ -1,0 +1,5 @@
+Home,./pages/index.php
+PRoducts,./pages/index.php
+Services,./pages/index.php
+About US,./pages/index.php
+Contact,./pages/index.php
